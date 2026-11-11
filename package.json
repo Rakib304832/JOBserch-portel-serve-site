@@ -1,23 +1,28 @@
 {
   "name": "server-site",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "HireLoop job portal - backend API server (Express + MongoDB)",
+  "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
-    "seed": "node src/scripts/seed.js",
+    "seed": "node src/scripts/seedJobs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "hireloop",
+    "job-portal",
+    "express",
+    "mongodb",
+    "api"
+  ],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",
-    "cros": "^1.1.0",
     "dotenv": "^18.0.10",
     "express": "^5.3.0",
     "express-rate-limit": "^8.7.4",

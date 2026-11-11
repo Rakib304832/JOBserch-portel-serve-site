@@ -1,2 +1,20 @@
-node_modules
+# .gitignore
+# ---------------------------------------------------------------------------
+# WHAT THIS FILE IS USED FOR:
+# Tells GitHub which files/folders must NEVER be uploaded to the repository.
+#
+# - node_modules/ : hundreds of MB of downloaded packages; anyone can rebuild
+#                   them with "npm install", so they are never committed.
+# - .env          : contains the JWT secret, database password and Google
+#                   client id. If it leaks, attackers can forge login tokens
+#                   and access the database. It stays only on your machine;
+#                   .env.example is the committed template instead.
+# - *.log         : crash/debug logs are machine-local noise.
+# - .DS_Store / Thumbs.db : OS junk files (macOS / Windows).
+# ---------------------------------------------------------------------------
+
+node_modules/
 .env
+*.log
+.DS_Store
+Thumbs.db
