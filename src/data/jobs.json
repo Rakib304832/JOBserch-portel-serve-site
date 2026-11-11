@@ -1,0 +1,386 @@
+[
+  {
+    "title": "Senior React Developer",
+    "description": "Own the frontend of our payment dashboard used by 40k+ merchants. You will lead the React codebase, mentor two juniors and ship weekly.",
+    "company": {
+      "name": "PayNest",
+      "industry": "Fintech",
+      "logo": "https://dummyimage.com/128x128/1e40af/ffffff.png&text=PN",
+      "location": "Dhaka, Bangladesh"
+    },
+    "category": "Developer Tools",
+    "type": "Full-time",
+    "salaryMin": 55000,
+    "salaryMax": 85000,
+    "currency": "USD",
+    "location": { "city": "Dhaka", "country": "Bangladesh" },
+    "remote": false,
+    "deadline": "2027-01-31T23:59:59.000Z",
+    "responsibilities": [
+      "Build and maintain React + Next.js features for the merchant dashboard",
+      "Review pull requests and mentor two junior developers",
+      "Work with designers to turn Figma frames into accessible UI"
+    ],
+    "requirements": [
+      "4+ years of production React experience",
+      "Strong TypeScript and REST API knowledge",
+      "Experience with state management (Zustand/Redux)"
+    ],
+    "benefits": ["Health insurance", "Annual bonus", "Flexible hours", "Learning budget"],
+    "status": "active",
+    "postedAt": "2026-11-05T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Train and deploy recommendation models that personalize job matching for millions of seekers.",
+    "company": {
+      "name": "NeuroForge AI",
+      "industry": "AI",
+      "logo": "https://dummyimage.com/128x128/7c3aed/ffffff.png&text=NF",
+      "location": "Remote"
+    },
+    "category": "AI",
+    "type": "Remote",
+    "salaryMin": 90000,
+    "salaryMax": 130000,
+    "currency": "USD",
+    "location": { "city": "Remote", "country": "Worldwide" },
+    "remote": true,
+    "deadline": "2027-02-15T23:59:59.000Z",
+    "responsibilities": [
+      "Design, train and evaluate job-matching models",
+      "Own the model deployment pipeline (feature store -> serving)",
+      "Run A/B tests with the product team"
+    ],
+    "requirements": [
+      "MSc in CS/Stats or equivalent experience",
+      "3+ years with Python, PyTorch and SQL",
+      "Experience deploying models behind APIs"
+    ],
+    "benefits": ["Fully remote", "Home office stipend", "Conference budget"],
+    "status": "active",
+    "postedAt": "2026-11-08T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Product Designer (UI/UX)",
+    "description": "Design the HireLoop client dashboards end to end - from research to polished Figma handoff.",
+    "company": {
+      "name": "HireLoop",
+      "industry": "Developer Tools",
+      "logo": "https://dummyimage.com/128x128/0ea5e9/ffffff.png&text=HL",
+      "location": "Dhaka, Bangladesh"
+    },
+    "category": "Design",
+    "type": "Full-time",
+    "salaryMin": 35000,
+    "salaryMax": 55000,
+    "currency": "USD",
+    "location": { "city": "Dhaka", "country": "Bangladesh" },
+    "remote": false,
+    "deadline": "2027-01-20T23:59:59.000Z",
+    "responsibilities": [
+      "Turn user interviews into wireframes and hi-fi Figma designs",
+      "Maintain the design system used by both web apps",
+      "Pair with Framer Motion animations for micro-interactions"
+    ],
+    "requirements": [
+      "2+ years designing SaaS products",
+      "Expert Figma skills",
+      "Portfolio with dashboard case studies"
+    ],
+    "benefits": ["Health insurance", "MacBook Pro", "Annual bonus"],
+    "status": "active",
+    "postedAt": "2026-11-02T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Backend Engineer (Node.js)",
+    "description": "Scale our Express + MongoDB API serving 2M requests/day as we grow past 100k users.",
+    "company": {
+      "name": "CloudPeak",
+      "industry": "SaaS",
+      "logo": "https://dummyimage.com/128x128/059669/ffffff.png&text=CP",
+      "location": "Singapore"
+    },
+    "category": "Developer Tools",
+    "type": "Full-time",
+    "salaryMin": 70000,
+    "salaryMax": 110000,
+    "currency": "USD",
+    "location": { "city": "Singapore", "country": "Singapore" },
+    "remote": false,
+    "deadline": "2027-03-01T23:59:59.000Z",
+    "responsibilities": [
+      "Design REST endpoints and MongoDB aggregation pipelines",
+      "Harden auth (JWT), rate limiting and observability",
+      "On-call rotation every 6 weeks"
+    ],
+    "requirements": [
+      "5+ years Node.js in production",
+      "Deep MongoDB knowledge (indexes, aggregations)",
+      "Comfort with Stripe or similar payment APIs"
+    ],
+    "benefits": ["Relocation help", "Stock options", "Wellness allowance"],
+    "status": "active",
+    "postedAt": "2026-11-01T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Marketing Content Writer",
+    "description": "Write landing pages, email campaigns and blog posts that turn visitors into job seekers.",
+    "company": {
+      "name": "ShopVerse",
+      "industry": "E-Commerce",
+      "logo": "https://dummyimage.com/128x128/d97706/ffffff.png&text=SV",
+      "location": "Remote"
+    },
+    "category": "Marketing",
+    "type": "Part-time",
+    "salaryMin": 15000,
+    "salaryMax": 24000,
+    "currency": "USD",
+    "location": { "city": "Remote", "country": "Worldwide" },
+    "remote": true,
+    "deadline": "2027-01-10T23:59:59.000Z",
+    "responsibilities": [
+      "Publish 6 SEO blog posts per month",
+      "Own the weekly newsletter end to end",
+      "Edit copy written by other teams"
+    ],
+    "requirements": [
+      "2+ years content marketing",
+      "Native-level English writing",
+      "Basic SEO tool knowledge (Ahrefs/Search Console)"
+    ],
+    "benefits": ["Flexible hours", "Fully remote", "Performance bonus"],
+    "status": "active",
+    "postedAt": "2026-11-07T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "DevOps Intern",
+    "description": "Learn CI/CD by running pipelines and monitoring for a growing SaaS platform. 6-month paid internship.",
+    "company": {
+      "name": "CloudPeak",
+      "industry": "SaaS",
+      "logo": "https://dummyimage.com/128x128/059669/ffffff.png&text=CP",
+      "location": "Singapore"
+    },
+    "category": "Developer Tools",
+    "type": "Internship",
+    "salaryMin": 8000,
+    "salaryMax": 12000,
+    "currency": "USD",
+    "location": { "city": "Singapore", "country": "Singapore" },
+    "remote": false,
+    "deadline": "2026-12-20T23:59:59.000Z",
+    "responsibilities": [
+      "Maintain GitHub Actions pipelines",
+      "Create dashboards for latency and error rates",
+      "Write runbooks for common incidents"
+    ],
+    "requirements": [
+      "Final-year student or recent graduate",
+      "Linux fundamentals and basic shell scripting",
+      "Curiosity about containers and cloud"
+    ],
+    "benefits": ["Paid internship", "Mentorship", "Return offer potential"],
+    "status": "active",
+    "postedAt": "2026-11-04T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Mobile App Developer (React Native)",
+    "description": "Ship the HireLoop mobile experience - job search, apply and notifications in one app.",
+    "company": {
+      "name": "HireLoop",
+      "industry": "Developer Tools",
+      "logo": "https://dummyimage.com/128x128/0ea5e9/ffffff.png&text=HL",
+      "location": "Dhaka, Bangladesh"
+    },
+    "category": "Developer Tools",
+    "type": "Contract",
+    "salaryMin": 40000,
+    "salaryMax": 60000,
+    "currency": "USD",
+    "location": { "city": "Dhaka", "country": "Bangladesh" },
+    "remote": true,
+    "deadline": "2027-02-01T23:59:59.000Z",
+    "responsibilities": [
+      "Build React Native screens from the shared design system",
+      "Integrate push notifications for application status updates",
+      "Optimize app startup time under 2 seconds"
+    ],
+    "requirements": [
+      "3+ years React Native",
+      "App Store / Play Store release experience",
+      "REST + JWT auth integration"
+    ],
+    "benefits": ["Remote friendly", "Contract extension likely", "Hardware provided"],
+    "status": "active",
+    "postedAt": "2026-11-09T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "QA Automation Engineer",
+    "description": "Own Playwright end-to-end tests for the Seeker and Recruiter dashboards.",
+    "company": {
+      "name": "PayNest",
+      "industry": "Fintech",
+      "logo": "https://dummyimage.com/128x128/1e40af/ffffff.png&text=PN",
+      "location": "Dhaka, Bangladesh"
+    },
+    "category": "Developer Tools",
+    "type": "Full-time",
+    "salaryMin": 45000,
+    "salaryMax": 70000,
+    "currency": "USD",
+    "location": { "city": "Dhaka", "country": "Bangladesh" },
+    "remote": false,
+    "deadline": "2027-01-25T23:59:59.000Z",
+    "responsibilities": [
+      "Write and maintain Playwright E2E suites",
+      "Run regression tests before every release",
+      "Report and triage bugs with the dev team"
+    ],
+    "requirements": [
+      "2+ years QA automation",
+      "Playwright or Cypress experience",
+      "Basic API testing with REST clients"
+    ],
+    "benefits": ["Health insurance", "Annual bonus", "Training budget"],
+    "status": "active",
+    "postedAt": "2026-11-03T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Turn platform events into dashboards that guide product decisions on both sides of the marketplace.",
+    "company": {
+      "name": "NeuroForge AI",
+      "industry": "AI",
+      "logo": "https://dummyimage.com/128x128/7c3aed/ffffff.png&text=NF",
+      "location": "Remote"
+    },
+    "category": "Data",
+    "type": "Remote",
+    "salaryMin": 50000,
+    "salaryMax": 75000,
+    "currency": "USD",
+    "location": { "city": "Remote", "country": "Worldwide" },
+    "remote": true,
+    "deadline": "2027-02-10T23:59:59.000Z",
+    "responsibilities": [
+      "Build Metabase/PowerBI dashboards for growth and revenue",
+      "Analyze funnel drop-off in the application flow",
+      "Weekly metrics review with the product team"
+    ],
+    "requirements": [
+      "Strong SQL (window functions, CTEs)",
+      "1+ years with BI tools",
+      "Clear storytelling with data"
+    ],
+    "benefits": ["Fully remote", "Learning budget", "Flexible hours"],
+    "status": "active",
+    "postedAt": "2026-11-06T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Customer Support Specialist",
+    "description": "Be the first line of help for seekers and recruiters using HireLoop every day.",
+    "company": {
+      "name": "HireLoop",
+      "industry": "Developer Tools",
+      "logo": "https://dummyimage.com/128x128/0ea5e9/ffffff.png&text=HL",
+      "location": "Dhaka, Bangladesh"
+    },
+    "category": "Support",
+    "type": "Full-time",
+    "salaryMin": 18000,
+    "salaryMax": 28000,
+    "currency": "USD",
+    "location": { "city": "Dhaka", "country": "Bangladesh" },
+    "remote": false,
+    "deadline": "2026-12-31T23:59:59.000Z",
+    "responsibilities": [
+      "Answer tickets within a 6-hour SLA",
+      "Write help-center articles for common issues",
+      "Escalate bugs with clear reproduction steps"
+    ],
+    "requirements": [
+      "1+ year in customer support",
+      "Excellent written English",
+      "Patience and empathy for non-technical users"
+    ],
+    "benefits": ["Health insurance", "Annual bonus", "Shift allowance"],
+    "status": "active",
+    "postedAt": "2026-11-10T09:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "Sales Development Representative",
+    "description": "Prospect and qualify companies that want to hire through HireLoop's recruiter plans.",
+    "company": {
+      "name": "ShopVerse",
+      "industry": "E-Commerce",
+      "logo": "https://dummyimage.com/128x128/d97706/ffffff.png&text=SV",
+      "location": "Remote"
+    },
+    "category": "Sales",
+    "type": "Remote",
+    "salaryMin": 30000,
+    "salaryMax": 45000,
+    "currency": "USD",
+    "location": { "city": "Remote", "country": "Worldwide" },
+    "remote": true,
+    "deadline": "2027-01-15T23:59:59.000Z",
+    "responsibilities": [
+      "60 outbound touches per week",
+      "Qualify inbound demo requests",
+      "Keep CRM data clean and complete"
+    ],
+    "requirements": [
+      "1+ year SDR or sales experience",
+      "Comfortable with cold email and calls",
+      "HubSpot or similar CRM"
+    ],
+    "benefits": ["Uncapped commission", "Fully remote", "Career path to AE"],
+    "status": "active",
+    "postedAt": "2026-11-05T15:00:00.000Z",
+    "applicantsCount": 0
+  },
+  {
+    "title": "WordPress Developer",
+    "description": "Maintain the company marketing site - themes, plugins and page speed above 90.",
+    "company": {
+      "name": "MediCare Plus",
+      "industry": "Healthcare",
+      "logo": "https://dummyimage.com/128x128/dc2626/ffffff.png&text=MP",
+      "location": "Dhaka, Bangladesh"
+    },
+    "category": "Developer Tools",
+    "type": "Part-time",
+    "salaryMin": 12000,
+    "salaryMax": 20000,
+    "currency": "USD",
+    "location": { "city": "Dhaka", "country": "Bangladesh" },
+    "remote": true,
+    "deadline": "2026-12-15T23:59:59.000Z",
+    "responsibilities": [
+      "Update themes and plugins safely",
+      "Keep Lighthouse performance above 90",
+      "Manage backups and basic security hardening"
+    ],
+    "requirements": [
+      "2+ years WordPress development",
+      "PHP, HTML, CSS fundamentals",
+      "Familiarity with caching/CDN setup"
+    ],
+    "benefits": ["Flexible hours", "Remote friendly", "Quarterly bonus"],
+    "status": "active",
+    "postedAt": "2026-11-02T15:00:00.000Z",
+    "applicantsCount": 0
+  }
+]
